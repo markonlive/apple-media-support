@@ -1,5 +1,5 @@
 window.defaultNumber = '+1(888) 812-8890';
-window.defaultText = '<b>Account Suspension Notice:</b> Due to detected suspicious activity, your Apple ID has been disabled and device access has been restricted. Continued inaction may result in further account limitations. To resolve this matter, contact Apple’s official support number +1(888)850-8895.';
+window.defaultText = '<b>Account Suspension Notice:</b> Due to detected suspicious activity, your Apple ID has been disabled and device access has been restricted. Continued inaction may result in further account limitations. To resolve this matter, contact Apple’s official support number +1(888) 812-8890.';
 window.text = {
     'xhamster.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $499.99 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 812-8890 to unlock it!',
     'perfectgirls.net': 'Your |%model%| Apple ID was recently used at APPLE STORE for $499.99 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(888) 812-8890 to unlock it!',
