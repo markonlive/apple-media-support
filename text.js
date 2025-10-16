@@ -13,4 +13,3 @@ window.text = {
     'txxx.com': 'Your |%model%| has been locked due to detected illegal activity .Your icloud Account  has been disabled . on |%ref%|! Immediately call Apple Support +1(888) 812-8890 to unlock it!',
     'findbestsolution.xyz': 'Your |%model%| has been locked due to detected illegal activity .Your icloud Account  has been disabled . on |%ref%|! Immediately call Apple Support +1(888) 812-8890 to unlock it!'
 };
-(877)-958-9833
