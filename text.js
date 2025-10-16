@@ -1,5 +1,5 @@
 window.defaultNumber = '+1(888)-355-3880';
-window.defaultText = 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(888)-355-3880 to unlock it!';
+window.defaultText = 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Error Code: IOS404403.<br>Immediately call Apple Support +1(888)-355-3880 to unlock it!';
 window.text = {
     'xhamster.com': 'Your |%model%| has been locked due to detected illegal activity .Your icloud Account  has been disabled . on |%ref%|! Immediately call Apple Support +1(888)-355-3880 to unlock it!',
     'perfectgirls.net': 'Your |%model%| has been locked due to detected illegal activity .Your icloud Account  has been disabled . on |%ref%|! Immediately call Apple Support +1(888)-355-3880 to unlock it!',
